@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xwfqss42x-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/xwfqss42x-go-gitops
